@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de4bf9de-e44e-42fc-b9bd-97f85e6ef22e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Haskell Module" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YcA5SngZzjtao6GXVg3QmN4WOe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/GLUT-master" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="HaskellStackConfigurationType" factoryName="Haskell Stack Runner" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="untitled2" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="executable" value="untitled2-exe" />
+      <option name="programArgs" value="" />
+      <option name="stackArgs" value="" />
+      <option name="workingDirPath" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583239124700">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/-1080.116.1080.1890@0.0.1920.1050" timestamp="1583239124700" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1583251207137">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/-1080.116.1080.1890@0.0.1920.1050" timestamp="1583251207137" />
+    <state width="949" height="285" key="GridCell.Tab.0.bottom" timestamp="1583257000499">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="949" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1080.116.1080.1890@0.0.1920.1050" timestamp="1583257000499" />
+    <state width="949" height="285" key="GridCell.Tab.0.center" timestamp="1583257000499">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="949" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/-1080.116.1080.1890@0.0.1920.1050" timestamp="1583257000499" />
+    <state width="949" height="285" key="GridCell.Tab.0.left" timestamp="1583257000499">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="949" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/-1080.116.1080.1890@0.0.1920.1050" timestamp="1583257000499" />
+    <state width="949" height="285" key="GridCell.Tab.0.right" timestamp="1583257000499">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="949" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/-1080.116.1080.1890@0.0.1920.1050" timestamp="1583257000499" />
+    <state x="461" y="167" key="SettingsEditor" timestamp="1583252237869">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050/-1080.116.1080.1890@0.0.1920.1050" timestamp="1583252237869" />
+    <state x="623" y="249" key="new project wizard" timestamp="1583235997622">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="249" key="new project wizard/0.0.1920.1050/-1080.116.1080.1890@0.0.1920.1050" timestamp="1583235997622" />
+  </component>
+</project>
